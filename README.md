@@ -7,10 +7,6 @@ This project implements and compares basic linear classification algorithms: **P
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Model Comparison](#model-comparison)
-- [Customization](#customization)
 
 ## Features
 
